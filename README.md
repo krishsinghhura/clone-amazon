@@ -1,2 +1,2 @@
 # clone-amazon
-Experience a detailed reconstruction of key Amazon website features using pure HTML and CSS. This project faithfully mirrors Amazon's essential styling and functionalities, showcasing advanced front-end development skills in crafting responsive layouts, intuitive navigation menus, dynamic product grids, and more.
+This project is a partial clone of the Amazon website, built entirely with HTML and CSS. It replicates key features and styling elements of Amazon's familiar user interface, showcasing front-end development skills in crafting responsive layouts, navigation menus, product grids, and more. This repository serves as a demonstration of web development proficiency and as a learning resource for those looking to understand modern web design techniques.
